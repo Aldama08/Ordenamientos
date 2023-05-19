@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1679980125 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\ordenamientos\lista.cpp
+	"Lista.h"
+
+1679979330 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\ordenamientos\lista.h
+	"Solicitud.h"
+
+1679979646 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\ordenamientos\solicitud.h
+	<iostream>
+
+1679980173 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\ordenamientos\main.cpp
+	<iostream>
+	"Lista.h"
+	"Solicitud.h"
+
+1679980101 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\ordenamientos\solicitud.cpp
+	"Solicitud.h"
+
